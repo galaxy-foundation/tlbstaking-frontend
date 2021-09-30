@@ -1,0 +1,22 @@
+{
+    "128": {
+        "tlb": {
+            "contract": "0xaa04e842a9997fcB8e3F12A629A218eA833ac619",
+            "precision": 4
+        },
+        "usdt": {
+            "contract": "0xa71EdC38d189767582C38A3145b5873052c3e47a",
+            "precision": 18
+        }
+    },
+    "256": {
+        "tlb": {
+            "contract": "0x8456AfF5136bE87F312A0f7FBC10a6a9E41BA82c",
+            "precision": 4
+        },
+        "usdt": {
+            "contract": "0x115ADDb17c544C9a35723FFD46Cddd9d27028284",
+            "precision": 2
+        }
+    }
+}

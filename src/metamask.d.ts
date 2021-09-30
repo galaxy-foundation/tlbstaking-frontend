@@ -1,0 +1,3 @@
+interface Metamask {
+	chainid:number
+}
